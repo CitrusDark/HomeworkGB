@@ -7,3 +7,4 @@ print(type(b))
 print(type(c))
 print(type(d))
 # Выяснить тип результата выражений
+#Some changes
